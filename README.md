@@ -1,0 +1,2 @@
+# pritunl
+pritunl intune deploy
